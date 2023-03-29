@@ -1,4 +1,4 @@
-# API Node.js with Serveless FrameWork in AWS
+# API Node.js with Serveless Framework in AWS
 
 In this project we have an AWS cloud infrastructure with API Gateway, DynamoDB, AWS Lambda and AWS CloudFormation using the Serverless framework for development based on Infrastructure as a Code.
 
